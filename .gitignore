@@ -18,3 +18,10 @@ windows/Makefile.in
 Makefile
 stamp-h1
 libtool
+
+# Visual Studio generated files
+*.sdf
+windows/UpgradeLog.XML
+windows/_UpgradeReport_Files/
+*.opensdf
+*.vcxproj.user
